@@ -1,0 +1,464 @@
+[
+   {
+      "id": "15245",
+      "nome": "Agostinho Patrus",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/15245.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "7752",
+      "nome": "Alencar da Silveira Jr.",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/7752.jpg",
+      "partido": "Partido: PDT"
+   },
+   {
+      "id": "19150",
+      "nome": "Ana Paula Siqueira",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/19150.jpg",
+      "partido": "Partido: REDE"
+   },
+   {
+      "id": "12195",
+      "nome": "André Quintão",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/12195.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "26143",
+      "nome": "Andréia de Jesus",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26143.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "7327",
+      "nome": "Antonio Carlos Arantes",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/7327.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "9652",
+      "nome": "Arlen Santiago",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/9652.jpg",
+      "partido": "Partido: AVANTE"
+   },
+   {
+      "id": "22514",
+      "nome": "Arnaldo Silva",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22514.jpg",
+      "partido": "Partido: UNIÃO"
+   },
+   {
+      "id": "26144",
+      "nome": "Bartô",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26144.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "26098",
+      "nome": "Beatriz Cerqueira",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26098.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "27070",
+      "nome": "Bernardo Mucida",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/27070.jpg",
+      "partido": "Partido: PSB"
+   },
+   {
+      "id": "26145",
+      "nome": "Betão",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26145.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "13425",
+      "nome": "Betinho Pinto Coelho",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/13425.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "18857",
+      "nome": "Bosco",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18857.jpg",
+      "partido": "Partido: CIDADANIA"
+   },
+   {
+      "id": "15246",
+      "nome": "Braulio Braz",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/15246.jpg",
+      "partido": "Partido: PTB"
+   },
+   {
+      "id": "26148",
+      "nome": "Bruno Engler",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26148.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "10002",
+      "nome": "Carlos Henrique",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/10002.jpg",
+      "partido": "Partido: REPUBLICANOS"
+   },
+   {
+      "id": "7758",
+      "nome": "Carlos Pimenta",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/7758.jpg",
+      "partido": "Partido: PDT"
+   },
+   {
+      "id": "18848",
+      "nome": "Cássio Soares",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18848.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "18849",
+      "nome": "Celinho Sintrocel",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18849.jpg",
+      "partido": "Partido: PCdoB"
+   },
+   {
+      "id": "2267",
+      "nome": "Celise Laviola",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/2267.jpg",
+      "partido": "Partido: CIDADANIA"
+   },
+   {
+      "id": "26062",
+      "nome": "Charles Santos",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26062.jpg",
+      "partido": "Partido: REPUBLICANOS"
+   },
+   {
+      "id": "26101",
+      "nome": "Cleitinho Azevedo",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26101.jpg",
+      "partido": "Partido: PSC"
+   },
+   {
+      "id": "26149",
+      "nome": "Coronel Henrique",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26149.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "26163",
+      "nome": "Coronel Sandro",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26163.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "22523",
+      "nome": "Cristiano Silveira",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22523.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "9655",
+      "nome": "Dalmo Ribeiro Silva",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/9655.jpg",
+      "partido": "Partido: PSDB"
+   },
+   {
+      "id": "26164",
+      "nome": "Delegada Sheila",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26164.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "26150",
+      "nome": "Delegado Heli Grilo",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26150.jpg",
+      "partido": "Partido: UNIÃO"
+   },
+   {
+      "id": "26151",
+      "nome": "Doorgal Andrada",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26151.jpg",
+      "partido": "Partido: PATRI"
+   },
+   {
+      "id": "22531",
+      "nome": "Douglas Melo",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22531.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "22581",
+      "nome": "Doutor Jean Freire",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22581.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "26152",
+      "nome": "Doutor Paulo",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26152.jpg",
+      "partido": "Partido: PATRI"
+   },
+   {
+      "id": "18850",
+      "nome": "Doutor Wilson Batista",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18850.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "17919",
+      "nome": "Duarte Bechir",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/17919.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "18852",
+      "nome": "Elismar Prado",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18852.jpg",
+      "partido": "Partido: PROS"
+   },
+   {
+      "id": "22516",
+      "nome": "Fábio Avelar de Oliveira",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22516.jpg",
+      "partido": "Partido: AVANTE"
+   },
+   {
+      "id": "26133",
+      "nome": "Fernando Pacheco",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26133.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "7762",
+      "nome": "Gil Pereira",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/7762.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "20231",
+      "nome": "Glaycon Franco",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/20231.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "26134",
+      "nome": "Guilherme da Cunha",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26134.jpg",
+      "partido": "Partido: NOVO"
+   },
+   {
+      "id": "26135",
+      "nome": "Gustavo Mitre",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26135.jpg",
+      "partido": "Partido: PSB"
+   },
+   {
+      "id": "24621",
+      "nome": "Gustavo Santana",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/24621.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "12202",
+      "nome": "Gustavo Valadares",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/12202.jpg",
+      "partido": "Partido: PMN"
+   },
+   {
+      "id": "5905",
+      "nome": "Hely Tarqüínio",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/5905.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "15265",
+      "nome": "Inácio Franco",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/15265.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "8095",
+      "nome": "Ione Pinheiro",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/8095.jpg",
+      "partido": "Partido: UNIÃO"
+   },
+   {
+      "id": "7766",
+      "nome": "João Leite",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/7766.jpg",
+      "partido": "Partido: PSDB"
+   },
+   {
+      "id": "22561",
+      "nome": "João Magalhães",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22561.jpg",
+      "partido": "Partido: MDB"
+   },
+   {
+      "id": "18858",
+      "nome": "João Vítor Xavier",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18858.jpg",
+      "partido": "Partido: CIDADANIA"
+   },
+   {
+      "id": "26165",
+      "nome": "Laura Serrano",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26165.jpg",
+      "partido": "Partido: NOVO"
+   },
+   {
+      "id": "10434",
+      "nome": "Leandro Genaro",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/10434.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "26153",
+      "nome": "Leninha",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26153.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "16019",
+      "nome": "Léo Portela",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/16019.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "7769",
+      "nome": "Leonídio Bouças",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/7769.jpg",
+      "partido": "Partido: PSDB"
+   },
+   {
+      "id": "21125",
+      "nome": "Mário Henrique Caixa",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/21125.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "4458",
+      "nome": "Marquinho Lemos",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/4458.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "26111",
+      "nome": "Mauro Tramonte",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26111.jpg",
+      "partido": "Partido: REPUBLICANOS"
+   },
+   {
+      "id": "18863",
+      "nome": "Neilando Pimenta",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18863.jpg",
+      "partido": "Partido: PSB"
+   },
+   {
+      "id": "22521",
+      "nome": "Noraldino Júnior",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22521.jpg",
+      "partido": "Partido: PSC"
+   },
+   {
+      "id": "26136",
+      "nome": "Osvaldo Lopes",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26136.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "26119",
+      "nome": "Professor Cleiton",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26119.jpg",
+      "partido": "Partido: PV"
+   },
+   {
+      "id": "26137",
+      "nome": "Professor Irineu",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26137.jpg",
+      "partido": "Partido: PATRI"
+   },
+   {
+      "id": "17872",
+      "nome": "Professor Wendel Mesquita",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/17872.jpg",
+      "partido": "Partido: SOLIDARIEDADE"
+   },
+   {
+      "id": "26138",
+      "nome": "Rafael Martins",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26138.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "26114",
+      "nome": "Raul Belém",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26114.jpg",
+      "partido": "Partido: CIDADANIA"
+   },
+   {
+      "id": "22607",
+      "nome": "Roberto Andrade",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22607.jpg",
+      "partido": "Partido: AVANTE"
+   },
+   {
+      "id": "15260",
+      "nome": "Rosângela Reis",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/15260.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "9673",
+      "nome": "Sargento Rodrigues",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/9673.jpg",
+      "partido": "Partido: PL"
+   },
+   {
+      "id": "1832",
+      "nome": "Sávio Souza Cruz",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/1832.jpg",
+      "partido": "Partido: MDB"
+   },
+   {
+      "id": "18860",
+      "nome": "Tadeu Martins Leite",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18860.jpg",
+      "partido": "Partido: MDB"
+   },
+   {
+      "id": "22515",
+      "nome": "Thiago Cota",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22515.jpg",
+      "partido": "Partido: PDT"
+   },
+   {
+      "id": "22616",
+      "nome": "Tito Torres",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/22616.jpg",
+      "partido": "Partido: PSD"
+   },
+   {
+      "id": "18867",
+      "nome": "Ulysses Gomes",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/18867.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "2698",
+      "nome": "Virgílio Guimarães",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/2698.jpg",
+      "partido": "Partido: PT"
+   },
+   {
+      "id": "26105",
+      "nome": "Zé Guilherme",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26105.jpg",
+      "partido": "Partido: PP"
+   },
+   {
+      "id": "26139",
+      "nome": "Zé Reis",
+      "imagem": "https://www.almg.gov.br/export/sites/default/deputados/fotos/26139.jpg",
+      "partido": "Partido: PODE"
+   }
+]
